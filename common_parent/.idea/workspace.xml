@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7cb3860-1f71-43e6-86aa-8bb5d1e21c66" name="默认的" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../bos_management/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7344">
+              <caret line="272" column="36" selection-start-line="272" selection-start-column="36" selection-end-line="272" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../bos_management/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="3" selection-start-column="3" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../bos_management/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../bos_management/src/main/resources/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="643">
+              <caret line="73" column="8" selection-start-line="73" selection-start-column="8" selection-end-line="73" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Vehicle.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/com/itheima/bos/domain/base/Vehicle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="623">
+              <caret line="117" selection-start-line="117" selection-end-line="117" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../bos_management/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../bos_management/src/main/java/com/itheima/bos/domain/base/Archive.java" />
+        <option value="$PROJECT_DIR$/../bos_management/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/../bos_management/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/../bos_management/src/main/java/com/itheima/bos/domain/base/Vehicle.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="bos_management" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="bos_management" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="bos_management" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.springframework.data:spring-data-redis:1.4.1.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="common_parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="967" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="common_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bos_management" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="common_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bos_management" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="common_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bos_management" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="common_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bos_management" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="common_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bos_management" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="common_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bos_management" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Javaweb/penghao" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.splitter.proportion" value="0.25656223" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java_code\bos2\bos_management\src\main\resources" />
+      <recent name="E:\Java_code\bos2\bos_management\src\main\java\com\itheima\bos\domain\base" />
+      <recent name="E:\Java_code\bos2\bos_management\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="应用程序">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="未命名" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="maven" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7cb3860-1f71-43e6-86aa-8bb5d1e21c66" name="默认的" comment="" />
+      <created>1533902772699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533902772699</updated>
+      <workItem from="1533902773994" duration="4370000" />
+      <workItem from="1533907196068" duration="1451000" />
+      <workItem from="1533983715134" duration="6341000" />
+      <workItem from="1534039700768" duration="484000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12646000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="调试" order="0" />
+      <window_info anchor="right" id="Palette&#9;" order="0" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" x="1024" y="503" width="518" height="384" id="Event Log" order="9" side_tool="true" type="FLOATING" weight="0.32925472" />
+      <window_info anchor="right" id="Maven Projects" order="2" weight="0.8518519" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="运行" order="3" weight="0.75305897" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="right" id="控制板" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12453033" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info id="设计师" order="2" />
+      <window_info anchor="right" id="Database" order="4" weight="0.0" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7344">
+          <caret line="272" column="36" lean-forward="true" selection-start-line="272" selection-start-column="36" selection-end-line="272" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_management/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1971">
+          <caret line="73" column="8" lean-forward="true" selection-start-line="73" selection-start-column="8" selection-end-line="73" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2403">
+          <caret line="89" column="24" selection-start-line="89" selection-start-column="24" selection-end-line="89" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_management/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2403">
+          <caret line="89" column="24" selection-start-line="89" selection-start-column="24" selection-end-line="89" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_management/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.itheima:common_parent:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.itheima:common_parent:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.itheima:common_parent:1.0-SNAPSHOT</node>
+            <node x="" y="">org.apache.shiro:shiro-all:jar:1.2.2</node>
+            <node x="" y="">org.apache.shiro:shiro-all:jar:1.2.2/org.apache.shiro:shiro-guice:jar:1.2.2</node>
+            <node x="" y="">org.apache.shiro:shiro-all:jar:1.2.2/org.apache.shiro:shiro-guice:jar:1.2.2/org.apache.shiro:shiro-core:jar:1.2.2</node>
+            <node x="" y="">org.apache.shiro:shiro-all:jar:1.2.2/org.apache.shiro:shiro-guice:jar:1.2.2/org.apache.shiro:shiro-core:jar:1.2.2/org.slf4j:slf4j-api:jar:1.6.4</node>
+            <node x="" y="">org.apache.shiro:shiro-all:jar:1.2.2/org.apache.shiro:shiro-guice:jar:1.2.2/org.apache.shiro:shiro-core:jar:1.2.2/commons-beanutils:commons-beanutils:jar:1.8.3</node>
+            <node x="" y="">org.apache.shiro:shiro-all:jar:1.2.2/org.apache.shiro:shiro-guice:jar:1.2.2/com.google.guava:guava:jar:r09</node>
+            <node x="" y="">org.apache.shiro:shiro-all:jar:1.2.2/org.apache.shiro:shiro-guice:jar:1.2.2/com.google.inject:guice:jar:3.0</node>
+            <node x="" y="">org.apache.shiro:shiro-all:jar:1.2.2/org.apache.shiro:shiro-guice:jar:1.2.2/com.google.inject:guice:jar:3.0/javax.inject:javax.inject:jar:1</node>
+            <node x="" y="">org.apache.shiro:shiro-all:jar:1.2.2/org.apache.shiro:shiro-guice:jar:1.2.2/com.google.inject.extensions:guice-multibindings:jar:3.0</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.1.7.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.1.7.RELEASE/org.springframework:spring-aop:jar:4.1.7.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.1.7.RELEASE/org.springframework:spring-aop:jar:4.1.7.RELEASE/aopalliance:aopalliance:jar:1.0</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.1.7.RELEASE/org.springframework:spring-beans:jar:4.1.7.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.1.7.RELEASE/org.springframework:spring-core:jar:4.1.7.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.1.7.RELEASE/org.springframework:spring-core:jar:4.1.7.RELEASE/commons-logging:commons-logging:jar:1.2</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.1.7.RELEASE/org.springframework:spring-expression:jar:4.1.7.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context-support:jar:4.1.7.RELEASE</node>
+            <node x="" y="">org.springframework:spring-web:jar:4.1.7.RELEASE</node>
+            <node x="" y="">org.springframework:spring-orm:jar:4.1.7.RELEASE</node>
+            <node x="" y="">org.springframework:spring-orm:jar:4.1.7.RELEASE/org.springframework:spring-jdbc:jar:4.1.7.RELEASE</node>
+            <node x="" y="">org.springframework:spring-orm:jar:4.1.7.RELEASE/org.springframework:spring-tx:jar:4.1.7.RELEASE</node>
+            <node x="" y="">org.springframework:spring-jms:jar:4.1.7.RELEASE</node>
+            <node x="" y="">org.springframework:spring-jms:jar:4.1.7.RELEASE/org.springframework:spring-messaging:jar:4.1.7.RELEASE</node>
+            <node x="" y="">org.springframework:spring-test:jar:4.1.7.RELEASE</node>
+            <node x="" y="">org.springframework:spring-aspects:jar:4.1.7.RELEASE</node>
+            <node x="" y="">org.springframework:spring-aspects:jar:4.1.7.RELEASE/org.aspectj:aspectjweaver:jar:1.8.6</node>
+            <node x="" y="">org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE</node>
+            <node x="" y="">org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.springframework.data:spring-data-commons:jar:1.11.0.RELEASE</node>
+            <node x="" y="">org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.aspectj:aspectjrt:jar:1.8.6</node>
+            <node x="" y="">org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.slf4j:slf4j-api:jar:1.7.12</node>
+            <node x="" y="">org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.12</node>
+            <node x="" y="">org.apache.activemq:activemq-all:jar:5.2.0</node>
+            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.24</node>
+            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.24/org.apache.struts.xwork:xwork-core:jar:2.3.24</node>
+            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.24/org.apache.struts.xwork:xwork-core:jar:2.3.24/asm:asm:jar:3.3</node>
+            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.24/org.apache.struts.xwork:xwork-core:jar:2.3.24/asm:asm-commons:jar:3.3</node>
+            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.24/org.apache.struts.xwork:xwork-core:jar:2.3.24/asm:asm-commons:jar:3.3/asm:asm-tree:jar:3.3</node>
+            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.24/org.apache.struts.xwork:xwork-core:jar:2.3.24/asm:asm-commons:jar:3.3/asm:asm-tree:jar:3.3/asm:asm:jar:3.3.1</node>
+            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.24/org.freemarker:freemarker:jar:2.3.22</node>
+            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.24/ognl:ognl:jar:3.0.6</node>
+            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.24/ognl:ognl:jar:3.0.6/javassist:javassist:jar:3.11.0.GA</node>
+            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.24/commons-fileupload:commons-fileupload:jar:1.3.1</node>
+            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.24/commons-io:commons-io:jar:2.2</node>
+            <node x="" y="">org.apache.struts:struts2-spring-plugin:jar:2.3.24</node>
+            <node x="" y="">org.apache.struts:struts2-spring-plugin:jar:2.3.24/org.springframework:spring-beans:jar:3.0.5.RELEASE</node>
+            <node x="" y="">org.apache.struts:struts2-spring-plugin:jar:2.3.24/org.springframework:spring-core:jar:3.0.5.RELEASE</node>
+            <node x="" y="">org.apache.struts:struts2-spring-plugin:jar:2.3.24/org.springframework:spring-context:jar:3.0.5.RELEASE</node>
+            <node x="" y="">org.apache.struts:struts2-spring-plugin:jar:2.3.24/org.springframework:spring-web:jar:3.0.5.RELEASE</node>
+            <node x="" y="">org.apache.struts:struts2-spring-plugin:jar:2.3.24/org.apache.commons:commons-lang3:jar:3.2</node>
+            <node x="" y="">org.apache.struts:struts2-convention-plugin:jar:2.3.24</node>
+            <node x="" y="">org.hibernate:hibernate-core:jar:5.0.1.Final</node>
+            <node x="" y="">org.hibernate:hibernate-core:jar:5.0.1.Final/org.jboss.logging:jboss-logging:jar:3.3.0.Final</node>
+            <node x="" y="">org.hibernate:hibernate-core:jar:5.0.1.Final/org.apache.geronimo.specs:geronimo-jta_1.1_spec:jar:1.1.1</node>
+            <node x="" y="">org.hibernate:hibernate-core:jar:5.0.1.Final/org.hibernate.javax.persistence:hibernate-jpa-2.1-api:jar:1.0.0.Final</node>
+            <node x="" y="">org.hibernate:hibernate-core:jar:5.0.1.Final/org.javassist:javassist:jar:3.18.1-GA</node>
+            <node x="" y="">org.hibernate:hibernate-core:jar:5.0.1.Final/antlr:antlr:jar:2.7.7</node>
+            <node x="" y="">org.hibernate:hibernate-core:jar:5.0.1.Final/org.jboss:jandex:jar:1.2.2.Final</node>
+            <node x="" y="">org.hibernate:hibernate-core:jar:5.0.1.Final/dom4j:dom4j:jar:1.6.1</node>
+            <node x="" y="">org.hibernate:hibernate-core:jar:5.0.1.Final/dom4j:dom4j:jar:1.6.1/xml-apis:xml-apis:jar:1.0.b2</node>
+            <node x="" y="">org.hibernate:hibernate-core:jar:5.0.1.Final/org.hibernate.common:hibernate-commons-annotations:jar:5.0.0.Final</node>
+            <node x="" y="">org.hibernate:hibernate-entitymanager:jar:5.0.1.Final</node>
+            <node x="" y="">c3p0:c3p0:jar:0.9.1.2</node>
+            <node x="" y="">org.slf4j:slf4j-log4j12:jar:1.6.6</node>
+            <node x="" y="">org.slf4j:slf4j-log4j12:jar:1.6.6/org.slf4j:slf4j-api:jar:1.6.6</node>
+            <node x="" y="">org.slf4j:slf4j-log4j12:jar:1.6.6/log4j:log4j:jar:1.2.17</node>
+            <node x="" y="">commons-lang:commons-lang:jar:2.6</node>
+            <node x="" y="">redis.clients:jedis:jar:2.6.2</node>
+            <node x="" y="">redis.clients:jedis:jar:2.6.2/org.apache.commons:commons-pool2:jar:2.0</node>
+            <node x="" y="">org.springframework.data:spring-data-redis:jar:1.4.1.RELEASE</node>
+            <node x="" y="">org.springframework.data:spring-data-redis:jar:1.4.1.RELEASE/org.springframework:spring-tx:jar:4.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.data:spring-data-redis:jar:1.4.1.RELEASE/org.slf4j:slf4j-api:jar:1.7.5</node>
+            <node x="" y="">org.springframework.data:spring-data-redis:jar:1.4.1.RELEASE/org.springframework:spring-aop:jar:4.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.data:spring-data-redis:jar:1.4.1.RELEASE/org.springframework:spring-context-support:jar:4.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.data:spring-data-redis:jar:1.4.1.RELEASE/org.springframework:spring-core:jar:4.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.data:spring-data-redis:jar:1.4.1.RELEASE/org.springframework:spring-context:jar:4.0.7.RELEASE</node>
+            <node x="" y="">com.oracle:ojdbc6:jar:11.2.0.1.0</node>
+            <node x="" y="">org.apache.poi:poi:jar:3.11</node>
+            <node x="" y="">org.apache.poi:poi:jar:3.11/commons-codec:commons-codec:jar:1.9</node>
+            <node x="" y="">org.apache.poi:poi-ooxml:jar:3.11</node>
+            <node x="" y="">org.apache.poi:poi-ooxml-schemas:jar:3.11</node>
+            <node x="" y="">org.apache.poi:poi-ooxml-schemas:jar:3.11/org.apache.xmlbeans:xmlbeans:jar:2.6.0</node>
+            <node x="" y="">javax.servlet:servlet-api:jar:2.5</node>
+            <node x="" y="">junit:junit:jar:4.11</node>
+            <node x="" y="">junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.0.1</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.0.1/xml-resolver:xml-resolver:jar:1.2</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.0.1/asm:asm:jar:3.3.1</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.0.1/org.apache.cxf:cxf-core:jar:3.0.1</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.0.1/org.apache.cxf:cxf-core:jar:3.0.1/org.codehaus.woodstox:woodstox-core-asl:jar:4.4.0</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.0.1/org.apache.cxf:cxf-core:jar:3.0.1/org.codehaus.woodstox:woodstox-core-asl:jar:4.4.0/org.codehaus.woodstox:stax2-api:jar:3.1.4</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.0.1/org.apache.cxf:cxf-core:jar:3.0.1/org.apache.ws.xmlschema:xmlschema-core:jar:2.1.0</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.0.1/org.apache.cxf:cxf-rt-bindings-soap:jar:3.0.1</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.0.1/org.apache.cxf:cxf-rt-bindings-soap:jar:3.0.1/org.apache.cxf:cxf-rt-wsdl:jar:3.0.1</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.0.1/org.apache.cxf:cxf-rt-bindings-soap:jar:3.0.1/org.apache.cxf:cxf-rt-wsdl:jar:3.0.1/wsdl4j:wsdl4j:jar:1.6.3</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.0.1/org.apache.cxf:cxf-rt-bindings-soap:jar:3.0.1/org.apache.cxf:cxf-rt-databinding-jaxb:jar:3.0.1</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.0.1/org.apache.cxf:cxf-rt-bindings-soap:jar:3.0.1/org.apache.cxf:cxf-rt-databinding-jaxb:jar:3.0.1/com.sun.xml.bind:jaxb-impl:jar:2.2.10-b140310.1920</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.0.1/org.apache.cxf:cxf-rt-bindings-soap:jar:3.0.1/org.apache.cxf:cxf-rt-databinding-jaxb:jar:3.0.1/com.sun.xml.bind:jaxb-core:jar:2.2.10-b140310.1920</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.0.1/org.apache.cxf:cxf-rt-bindings-xml:jar:3.0.1</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.0.1/org.apache.cxf:cxf-rt-frontend-simple:jar:3.0.1</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.0.1/org.apache.cxf:cxf-rt-ws-addr:jar:3.0.1</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.0.1/org.apache.cxf:cxf-rt-ws-addr:jar:3.0.1/org.apache.cxf:cxf-rt-ws-policy:jar:3.0.1</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.0.1/org.apache.cxf:cxf-rt-ws-addr:jar:3.0.1/org.apache.cxf:cxf-rt-ws-policy:jar:3.0.1/org.apache.neethi:neethi:jar:3.0.3</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-transports-http:jar:3.0.1</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.0.1</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.0.1/javax.ws.rs:javax.ws.rs-api:jar:2.0</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.0.1/javax.annotation:javax.annotation-api:jar:1.2</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-rs-client:jar:3.0.1</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-rs-extension-providers:jar:3.0.1</node>
+            <node x="" y="">org.codehaus.jettison:jettison:jar:1.3.7</node>
+            <node x="" y="">org.codehaus.jettison:jettison:jar:1.3.7/stax:stax-api:jar:1.0.1</node>
+            <node x="" y="">com.alibaba:fastjson:jar:1.1.37</node>
+            <node x="" y="">com.colobu:fastjson-jaxrs-json-provider:jar:0.3.1</node>
+            <node x="" y="">com.colobu:fastjson-jaxrs-json-provider:jar:0.3.1/com.alibaba:fastjson:jar:1.2.7</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.13403211418376448" x="4474.0" y="537.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_management/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/com/itheima/bos/domain/base/Archive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7344">
+          <caret line="272" column="36" selection-start-line="272" selection-start-column="36" selection-end-line="272" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="643">
+          <caret line="73" column="8" selection-start-line="73" selection-start-column="8" selection-end-line="73" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/com/itheima/bos/domain/base/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>bos_management:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web|bos_management</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="E:\Java_code\bos2\bos_management" />
+    <option value="tomcat7:run" />
+    <option value="tomcat:run" />
+    <option value="compile" />
+    <option value="maven install" />
+  </component>
+</project>

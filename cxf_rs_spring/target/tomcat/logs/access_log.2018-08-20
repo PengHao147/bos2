@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [20/Aug/2018:23:14:25 +0800] "GET /cxf_rs_spring HTTP/1.1" 302 - http-bio-8083-exec-1 0
+0:0:0:0:0:0:0:1 - - [20/Aug/2018:23:14:25 +0800] "GET /cxf_rs_spring/ HTTP/1.1" 404 979 http-bio-8083-exec-3 12
+0:0:0:0:0:0:0:1 - - [20/Aug/2018:23:14:25 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8083-exec-4 0
+0:0:0:0:0:0:0:1 - - [20/Aug/2018:23:14:48 +0800] "GET /cxf_rs_spring/services/userService/user HTTP/1.1" 200 353 http-bio-8083-exec-5 132
+0:0:0:0:0:0:0:1 - - [20/Aug/2018:23:22:15 +0800] "GET /cxf_rs_spring/services/userService/user/1 HTTP/1.1" 200 135 http-bio-8083-exec-8 6
+0:0:0:0:0:0:0:1 - - [20/Aug/2018:23:22:20 +0800] "GET /cxf_rs_spring/services/userService/user/2 HTTP/1.1" 204 - http-bio-8083-exec-10 2
+0:0:0:0:0:0:0:1 - - [20/Aug/2018:23:22:24 +0800] "GET /cxf_rs_spring/services/userService/user/2 HTTP/1.1" 204 - http-bio-8083-exec-10 3

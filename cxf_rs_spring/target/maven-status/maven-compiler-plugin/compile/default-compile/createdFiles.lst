@@ -1,0 +1,4 @@
+com\itheima\cxf\domain\Car.class
+com\itheima\cxf\domain\User.class
+com\itheima\cxf\service\IUserService.class
+com\itheima\cxf\service\UserServiceImpl.class
